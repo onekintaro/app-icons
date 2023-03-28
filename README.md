@@ -1,2 +1,2 @@
 # app-icons
-App icons for Portainer
+App icons for Portainer Stacks
